@@ -1,0 +1,87 @@
+2022-09-27 10:01:02,758 - test_carwale.py:[56] - [INFO] - test_getCarNameAndPrice test is started
+2022-09-27 10:01:05,305 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-27 10:01:06,877 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-27 10:01:17,170 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-27 10:01:53,504 - test_carwale.py:[56] - [INFO] - test_getCarNameAndPrice test is started
+2022-09-27 10:01:54,184 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-27 10:01:54,594 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-27 10:01:59,931 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-27 10:02:00,274 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-27 10:02:05,477 - BasePage.py:[24] - [INFO] - Clicking on an elementtoyota_XPATH
+2022-09-27 10:02:12,147 - test_carwale.py:[86] - [INFO] - *********** test_getCarNameAndPrice test is  successfully finished *********
+2022-09-27 10:02:25,998 - test_carwale.py:[56] - [INFO] - test_getCarNameAndPrice test is started
+2022-09-27 10:02:26,730 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-27 10:02:27,058 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-27 10:02:32,335 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-27 10:02:32,452 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-27 10:02:37,590 - BasePage.py:[24] - [INFO] - Clicking on an elementhyundai_XPATH
+2022-09-27 10:02:52,944 - test_carwale.py:[86] - [INFO] - *********** test_getCarNameAndPrice test is  successfully finished *********
+2022-09-27 10:03:06,989 - test_carwale.py:[56] - [INFO] - test_getCarNameAndPrice test is started
+2022-09-27 10:03:07,733 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-27 10:03:08,513 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-27 10:03:13,797 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-27 10:03:14,050 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-27 10:03:19,194 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-09-27 10:03:23,449 - test_carwale.py:[86] - [INFO] - *********** test_getCarNameAndPrice test is  successfully finished *********
+2022-09-27 10:03:37,783 - test_carwale.py:[56] - [INFO] - test_getCarNameAndPrice test is started
+2022-09-27 10:03:38,444 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-27 10:03:38,810 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-27 10:03:44,102 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-27 10:03:44,221 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-27 10:03:49,340 - BasePage.py:[24] - [INFO] - Clicking on an elementbmw_XPATH
+2022-09-27 10:03:54,436 - test_carwale.py:[86] - [INFO] - *********** test_getCarNameAndPrice test is  successfully finished *********
+2022-09-27 10:04:07,482 - test_carwale.py:[56] - [INFO] - test_getCarNameAndPrice test is started
+2022-09-27 10:04:08,688 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-27 10:04:09,693 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-27 10:04:14,990 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-27 10:04:15,097 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-27 10:04:20,229 - BasePage.py:[24] - [INFO] - Clicking on an elementtoyota_XPATH
+2022-09-27 10:04:23,505 - test_carwale.py:[86] - [INFO] - *********** test_getCarNameAndPrice test is  successfully finished *********
+2022-09-27 10:04:36,208 - test_carwale.py:[56] - [INFO] - test_getCarNameAndPrice test is started
+2022-09-27 10:04:37,487 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-27 10:04:37,690 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-27 10:04:42,970 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-27 10:04:43,047 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-27 10:04:48,226 - BasePage.py:[24] - [INFO] - Clicking on an elementhyundai_XPATH
+2022-09-27 10:04:53,740 - test_carwale.py:[86] - [INFO] - *********** test_getCarNameAndPrice test is  successfully finished *********
+2022-09-27 10:05:06,139 - test_carwale.py:[56] - [INFO] - test_getCarNameAndPrice test is started
+2022-09-27 10:05:07,675 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-27 10:05:08,242 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-27 10:05:13,551 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-27 10:05:13,632 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-27 10:05:18,850 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-09-27 10:05:24,110 - test_carwale.py:[86] - [INFO] - *********** test_getCarNameAndPrice test is  successfully finished *********
+2022-09-27 10:05:38,143 - test_registration.py:[14] - [INFO] - Test_signup_001 is started
+2022-09-27 10:06:12,455 - test_registration.py:[14] - [INFO] - Test_signup_001 is started
+2022-09-27 10:06:48,636 - test_registration.py:[14] - [INFO] - Test_signup_001 is started
+2022-09-27 10:07:24,102 - test_registration.py:[14] - [INFO] - Test_signup_001 is started
+2022-09-27 10:10:06,031 - test_carwale.py:[56] - [INFO] - test_getCarNameAndPrice test is started
+2022-09-27 10:10:07,193 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-27 10:10:07,685 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-27 10:10:13,138 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-27 10:10:13,230 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-27 10:10:18,452 - BasePage.py:[24] - [INFO] - Clicking on an elementbmw_XPATH
+2022-09-27 10:10:24,000 - test_carwale.py:[86] - [INFO] - *********** test_getCarNameAndPrice test is  successfully finished *********
+2022-09-27 10:10:37,263 - test_carwale.py:[56] - [INFO] - test_getCarNameAndPrice test is started
+2022-09-27 10:10:38,731 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-27 10:10:39,097 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-27 10:10:44,409 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-27 10:10:44,577 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-27 10:10:49,887 - BasePage.py:[24] - [INFO] - Clicking on an elementtoyota_XPATH
+2022-09-27 10:10:59,016 - test_carwale.py:[86] - [INFO] - *********** test_getCarNameAndPrice test is  successfully finished *********
+2022-09-27 10:11:14,625 - test_carwale.py:[56] - [INFO] - test_getCarNameAndPrice test is started
+2022-09-27 10:11:15,697 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-27 10:11:16,075 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-27 10:11:21,392 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-27 10:11:21,705 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-27 10:11:26,867 - BasePage.py:[24] - [INFO] - Clicking on an elementhyundai_XPATH
+2022-09-27 10:11:32,991 - test_carwale.py:[86] - [INFO] - *********** test_getCarNameAndPrice test is  successfully finished *********
+2022-09-27 10:11:47,576 - test_carwale.py:[56] - [INFO] - test_getCarNameAndPrice test is started
+2022-09-27 10:11:48,018 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-27 10:11:48,399 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-27 10:11:53,679 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-27 10:11:53,855 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-27 10:11:58,983 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-09-27 10:12:05,460 - test_carwale.py:[86] - [INFO] - *********** test_getCarNameAndPrice test is  successfully finished *********
+2022-09-27 10:12:20,294 - test_registration.py:[14] - [INFO] - Test_signup_001 is started
+2022-09-27 10:12:52,863 - test_registration.py:[14] - [INFO] - Test_signup_001 is started

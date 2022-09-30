@@ -1,0 +1,27 @@
+2022-09-25 23:34:40,105 - test_carwale.py:[24] - [INFO] - Test_gotoCarBrand is started
+2022-09-25 23:34:40,717 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-25 23:34:41,713 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-25 23:34:47,041 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-25 23:34:47,283 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-25 23:34:52,447 - BasePage.py:[24] - [INFO] - Clicking on an elementbmw_XPATH
+2022-09-25 23:35:12,104 - test_carwale.py:[24] - [INFO] - Test_gotoCarBrand is started
+2022-09-25 23:35:13,385 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-25 23:35:13,667 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-25 23:35:18,965 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-25 23:35:19,105 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-25 23:35:24,246 - BasePage.py:[24] - [INFO] - Clicking on an elementtoyota_XPATH
+2022-09-25 23:35:25,197 - test_carwale.py:[50] - [INFO] - *********** Moved to selected cars page successfully *********
+2022-09-25 23:35:38,214 - test_carwale.py:[24] - [INFO] - Test_gotoCarBrand is started
+2022-09-25 23:35:38,605 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-25 23:35:39,639 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-25 23:35:44,921 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-25 23:35:45,046 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-25 23:35:50,203 - BasePage.py:[24] - [INFO] - Clicking on an elementhyundai_XPATH
+2022-09-25 23:35:51,492 - test_carwale.py:[50] - [INFO] - *********** Moved to selected cars page successfully *********
+2022-09-25 23:36:06,316 - test_carwale.py:[24] - [INFO] - Test_gotoCarBrand is started
+2022-09-25 23:36:06,925 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-25 23:36:07,721 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-25 23:36:13,028 - BasePage.py:[59] - [INFO] - Moving to an element :  newcars_XPATH
+2022-09-25 23:36:13,141 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-09-25 23:36:18,267 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-09-25 23:36:19,261 - test_carwale.py:[50] - [INFO] - *********** Moved to selected cars page successfully *********

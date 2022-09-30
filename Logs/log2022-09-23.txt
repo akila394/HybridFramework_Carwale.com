@@ -1,0 +1,20 @@
+2022-09-23 22:16:16,316 - test_registration.py:[15] - [INFO] - Test_signup_001 is started
+2022-09-23 22:16:16,601 - BasePage.py:[33] - [INFO] - Typing in an element :  name_XPATH with the value Akila
+2022-09-23 22:16:16,804 - BasePage.py:[33] - [INFO] - Typing in an element :  phone_XPATH with the value 345625363
+2022-09-23 22:16:16,994 - BasePage.py:[33] - [INFO] - Typing in an element :  email_XPATH with the value akila@gmail.com
+2022-09-23 22:16:17,133 - BasePage.py:[46] - [INFO] - Select the  option Sri Lankafor the country_XPATH
+2022-09-23 22:16:17,313 - BasePage.py:[33] - [INFO] - Typing in an element :  city_XPATH with the value kandy
+2022-09-23 22:16:17,818 - BasePage.py:[33] - [INFO] - Typing in an element :  username_XPATH with the value akila
+2022-09-23 22:16:18,108 - BasePage.py:[33] - [INFO] - Typing in an element :  password_XPATH with the value PassworD
+2022-09-23 22:16:23,249 - BasePage.py:[23] - [INFO] - Clicking on an elementsubmit_XPATH
+2022-09-23 22:16:23,250 - test_registration.py:[19] - [INFO] - Test_signup_001 is finished
+2022-09-23 22:16:38,176 - test_registration.py:[15] - [INFO] - Test_signup_001 is started
+2022-09-23 22:16:38,313 - BasePage.py:[33] - [INFO] - Typing in an element :  name_XPATH with the value Ruwani
+2022-09-23 22:16:38,456 - BasePage.py:[33] - [INFO] - Typing in an element :  phone_XPATH with the value 3245678
+2022-09-23 22:16:38,665 - BasePage.py:[33] - [INFO] - Typing in an element :  email_XPATH with the value ruwani@gmail.com
+2022-09-23 22:16:38,890 - BasePage.py:[46] - [INFO] - Select the  option Australiafor the country_XPATH
+2022-09-23 22:16:39,098 - BasePage.py:[33] - [INFO] - Typing in an element :  city_XPATH with the value Sydney
+2022-09-23 22:16:39,477 - BasePage.py:[33] - [INFO] - Typing in an element :  username_XPATH with the value ruwani
+2022-09-23 22:16:39,717 - BasePage.py:[33] - [INFO] - Typing in an element :  password_XPATH with the value PassworD
+2022-09-23 22:16:44,984 - BasePage.py:[23] - [INFO] - Clicking on an elementsubmit_XPATH
+2022-09-23 22:16:44,985 - test_registration.py:[19] - [INFO] - Test_signup_001 is finished
