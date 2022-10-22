@@ -1,3 +1,5 @@
+import time
+
 from PageObjects.BasePage import BasePage
 
 

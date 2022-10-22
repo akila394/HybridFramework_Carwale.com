@@ -1,0 +1,10 @@
+INFO     Tests.test_searchAndFilter:test_searchAndFilter.py:16 Test_gotoCarBrand is started
+INFO     PageObjects.BasePage:BasePage.py:60 Moving to an element :  newcars_XPATH
+INFO     PageObjects.BasePage:BasePage.py:24 Clicking on an elementfindnewcars _XPATH
+INFO     PageObjects.BasePage:BasePage.py:60 Moving to an element :  newcars_XPATH
+INFO     PageObjects.BasePage:BasePage.py:24 Clicking on an elementfindnewcars _XPATH
+INFO     PageObjects.BasePage:BasePage.py:24 Clicking on an elementbmw_XPATH
+INFO     PageObjects.BasePage:BasePage.py:24 Clicking on an elementmake_XPATH
+INFO     PageObjects.BasePage:BasePage.py:24 Clicking on an elementbudget_XPATH
+INFO     PageObjects.BasePage:BasePage.py:70 Clicking on an elementbudgetSlider_XPATH
+INFO     Tests.test_searchAndFilter:test_searchAndFilter.py:102 ************** Search using Budget for BMW Passed *****************

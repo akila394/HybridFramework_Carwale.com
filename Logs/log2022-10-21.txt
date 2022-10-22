@@ -1,0 +1,289 @@
+2022-10-21 13:43:16,984 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 13:43:18,300 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 13:43:19,078 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 13:43:24,375 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 13:43:24,486 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 13:43:29,630 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 13:43:31,269 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 13:43:36,485 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 13:43:36,558 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 14:00:35,231 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 14:00:39,274 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 14:00:39,764 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 14:00:45,075 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 14:00:45,191 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 14:00:50,549 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 14:00:51,672 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 14:00:57,100 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 14:00:57,256 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 14:16:31,891 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 14:16:35,553 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 14:16:36,324 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 14:16:41,622 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 14:16:41,861 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 14:16:47,016 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 14:16:50,210 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 14:16:56,365 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 14:16:57,039 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 14:23:13,347 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 14:23:14,046 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 14:23:16,539 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 14:23:21,914 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 14:23:22,151 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 14:23:27,307 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 14:23:31,239 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 14:23:38,059 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 14:23:38,605 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 14:24:29,299 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 14:24:30,721 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 14:24:35,252 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 14:24:40,546 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 14:24:40,869 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 14:24:46,138 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 14:24:47,292 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 14:24:54,427 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 14:24:55,486 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 14:30:43,879 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 14:30:45,143 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 14:30:47,305 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 14:30:52,592 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 14:30:52,746 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 14:30:57,911 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 14:30:59,759 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 14:31:06,237 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 14:31:06,888 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 14:32:45,900 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 14:32:46,246 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 14:32:46,602 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 14:32:51,904 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 14:32:52,865 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 14:32:58,008 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 14:32:59,646 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 14:33:05,676 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 14:33:06,004 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 14:34:17,242 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 14:34:17,936 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 14:34:18,248 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 14:34:23,644 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 14:34:24,002 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 14:34:29,159 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 14:34:30,870 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 14:34:38,889 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 14:34:39,020 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 14:44:55,313 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 14:44:55,807 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 14:44:57,434 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 14:45:02,732 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 14:45:02,846 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 14:45:07,979 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 14:45:09,525 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 14:45:14,866 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 14:45:15,022 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 14:52:35,813 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 14:52:43,371 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 14:52:44,499 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 14:52:49,827 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 14:52:49,944 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 14:52:55,214 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 14:52:56,865 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 14:53:01,951 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 14:53:02,049 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 15:14:01,489 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 15:14:09,416 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 15:14:09,668 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 15:14:15,024 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 15:14:15,376 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 15:14:20,531 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 15:14:21,420 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 15:14:27,219 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 15:14:27,429 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 15:16:11,141 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 15:16:14,690 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 15:16:15,131 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 15:16:20,563 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 15:16:20,829 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 15:16:26,004 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 15:16:27,323 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 15:16:32,522 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 15:16:32,542 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 15:24:35,817 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 15:24:38,855 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 15:24:41,308 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 15:24:46,816 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 15:24:47,070 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 15:24:52,216 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 15:24:54,245 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 15:24:59,478 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 15:24:59,569 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 15:26:37,232 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 15:26:37,899 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 15:26:38,163 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 15:26:43,519 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 15:26:43,818 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 15:26:49,349 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 15:26:51,040 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 15:26:56,151 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 15:26:56,319 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 21:49:52,206 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 21:49:54,110 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 21:49:55,075 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 21:50:00,776 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 21:50:01,019 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 21:50:06,177 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 21:50:11,053 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 21:50:16,490 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 21:50:16,703 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 21:52:53,848 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 21:52:59,208 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 21:52:59,838 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 21:53:05,130 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 21:53:05,224 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 21:53:10,353 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 21:53:12,375 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 21:53:18,508 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 21:53:18,925 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 21:54:43,876 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 21:54:46,224 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 21:54:47,204 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 21:54:52,496 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 21:54:52,583 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 21:54:57,716 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 21:54:58,929 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 21:55:04,244 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 21:55:04,368 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 21:58:41,687 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 21:58:43,060 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 21:58:48,167 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 21:58:53,456 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 21:58:53,659 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 21:58:58,826 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 21:59:00,940 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 21:59:06,394 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 21:59:06,756 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 22:00:58,190 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 22:00:58,794 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 22:00:59,350 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 22:01:04,633 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 22:01:04,753 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 22:01:09,995 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 22:01:11,648 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 22:01:18,387 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 22:01:18,777 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 22:16:30,931 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 22:16:32,921 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 22:16:33,642 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 22:16:38,928 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 22:16:39,022 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 22:16:44,284 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 22:16:45,529 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 22:16:50,752 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 22:16:51,180 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 22:18:32,335 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 22:18:32,940 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 22:18:36,106 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 22:18:41,392 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 22:18:41,478 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 22:18:46,644 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 22:18:47,603 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 22:18:55,546 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 22:18:55,719 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 22:24:58,089 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 22:24:59,271 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 22:25:04,808 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 22:25:10,093 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 22:25:10,204 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 22:25:15,446 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 22:25:16,899 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 22:25:26,994 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 22:25:28,185 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 22:28:25,678 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 22:28:27,515 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 22:28:31,326 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 22:28:36,658 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 22:28:36,854 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 22:28:42,420 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 22:28:50,998 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 22:28:56,162 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 22:28:56,259 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 22:31:47,402 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 22:31:48,091 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 22:31:49,210 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 22:31:56,402 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 22:31:56,643 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 22:32:02,663 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 22:32:15,213 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 22:32:20,598 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 22:32:20,956 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 23:05:49,674 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 23:05:51,173 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 23:05:51,741 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 23:05:57,152 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 23:05:57,459 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 23:06:02,674 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 23:06:14,961 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 23:06:20,957 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 23:06:21,084 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 23:08:47,537 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 23:08:49,881 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 23:08:50,212 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 23:08:55,564 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 23:08:56,061 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 23:09:01,240 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 23:09:03,219 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 23:09:08,455 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 23:09:08,598 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 23:12:33,655 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 23:12:37,619 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 23:12:38,154 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 23:12:43,437 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 23:12:43,600 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 23:12:48,789 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 23:12:50,652 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 23:12:55,903 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 23:12:56,076 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 23:16:09,029 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 23:16:09,356 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 23:16:09,967 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 23:16:15,255 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 23:16:15,459 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 23:16:20,624 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 23:16:22,620 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 23:16:28,297 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 23:16:28,571 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 23:20:17,726 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 23:20:19,424 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 23:20:23,247 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 23:20:28,554 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 23:20:28,663 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 23:20:33,864 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 23:20:35,309 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 23:20:42,973 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 23:20:42,999 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 23:22:25,247 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 23:22:26,098 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 23:22:27,233 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 23:22:32,553 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 23:22:32,710 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 23:22:38,039 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 23:22:41,351 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 23:22:46,835 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 23:22:46,979 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 23:32:39,128 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 23:32:44,639 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 23:32:44,870 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 23:32:50,161 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 23:32:50,318 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 23:32:56,894 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 23:32:59,619 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 23:33:09,520 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 23:33:11,190 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 23:34:39,142 - test_searchAndFilter.py:[16] - [INFO] - Test_gotoCarBrand is started
+2022-10-21 23:34:45,098 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 23:34:45,342 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 23:34:50,712 - BasePage.py:[60] - [INFO] - Moving to an element :  newcars_XPATH
+2022-10-21 23:34:50,837 - BasePage.py:[24] - [INFO] - Clicking on an elementfindnewcars _XPATH
+2022-10-21 23:34:56,115 - BasePage.py:[24] - [INFO] - Clicking on an elementhonda_XPATH
+2022-10-21 23:34:58,160 - BasePage.py:[24] - [INFO] - Clicking on an elementmake_XPATH
+2022-10-21 23:35:07,535 - BasePage.py:[24] - [INFO] - Clicking on an elementbudget_XPATH
+2022-10-21 23:35:07,590 - BasePage.py:[70] - [INFO] - Clicking on an elementbudgetSlider_XPATH
+2022-10-21 23:35:29,543 - test_searchAndFilter.py:[47] - [INFO] - ************** Search using Budget Passed *****************

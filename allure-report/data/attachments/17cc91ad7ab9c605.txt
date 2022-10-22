@@ -1,0 +1,7 @@
+INFO     Tests.test_carwale:test_carwale.py:28 Test_gotoCarBrand is started
+INFO     PageObjects.BasePage:BasePage.py:59 Moving to an element :  newcars_XPATH
+INFO     PageObjects.BasePage:BasePage.py:24 Clicking on an elementfindnewcars _XPATH
+INFO     PageObjects.BasePage:BasePage.py:59 Moving to an element :  newcars_XPATH
+INFO     PageObjects.BasePage:BasePage.py:24 Clicking on an elementfindnewcars _XPATH
+INFO     PageObjects.BasePage:BasePage.py:24 Clicking on an elementtoyota_XPATH
+INFO     Tests.test_carwale:test_carwale.py:54 *********** Moved to selected cars page successfully *********

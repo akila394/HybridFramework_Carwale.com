@@ -47,6 +47,7 @@ class BasePage:
         log.logger.info("Select the  option " + str(value) + "for the " + str(locator))
 
     def moveTo(self,locator):
+        global element
         if str(locator).endswith("_CSS"):
             element = self.driver.find_element(By.CSS_SELECTOR, configReader.readConfig("webelements", locator))
         elif str(locator).endswith("_XPATH"):
@@ -57,3 +58,29 @@ class BasePage:
         action.move_to_element(element).perform()
 
         log.logger.info("Moving to an element :  " + str(locator))
+
+    def sliderDragAndDrop(self, locator, xvalue, yvalue):
+        global element
+        if str(locator).endswith("_CSS"):
+            element = self.driver.find_element(By.CSS_SELECTOR, configReader.readConfig("webelements", locator))
+        elif str(locator).endswith("_XPATH"):
+            element = self.driver.find_element(By.XPATH, configReader.readConfig("webelements", locator))
+        elif str(locator).endswith("_ID"):
+            element = self.driver.find_element(By.ID, configReader.readConfig("webelements", locator))
+        log.logger.info("Clicking on an element"+str(locator))
+
+        action = ActionChains(self.driver)
+        action.drag_and_drop_by_offset(element, xvalue, yvalue).perform()
+
+    def clickJavaScript(self, locator):
+        global element
+        if str(locator).endswith("_CSS"):
+            element = self.driver.find_element(By.CSS_SELECTOR, configReader.readConfig("webelements", locator))
+        elif str(locator).endswith("_XPATH"):
+            element = self.driver.find_element(By.XPATH, configReader.readConfig("webelements", locator))
+        elif str(locator).endswith("_ID"):
+            element = self.driver.find_element(By.ID, configReader.readConfig("webelements", locator))
+
+        self.driver.execute_script("arguments[0].click();", element)
+
+        log.logger.info("Clicking on an element"+str(locator))

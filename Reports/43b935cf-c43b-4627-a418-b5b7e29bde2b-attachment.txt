@@ -1,0 +1,4 @@
+INFO     Tests.test_carwale:test_carwale.py:18 *********** Inside the New car Test ************
+INFO     PageObjects.BasePage:BasePage.py:59 Moving to an element :  newcars_XPATH
+INFO     PageObjects.BasePage:BasePage.py:24 Clicking on an elementfindnewcars _XPATH
+INFO     Tests.test_carwale:test_carwale.py:22 *********** Moved to new cars page successfully *********
