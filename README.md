@@ -5,7 +5,7 @@
 The objective of this project is to create a Selenium Hybrid automation testing framework and adding scripts to automate Carwale.com, India's leading website for car-related details. The framework will enable efficient and reliable testing of the website's functionalities, ensuring the accuracy and quality of car-related information.
 
 ### Key Tasks: 
-1. Creating a Hybrid Automation Framework: Develop a hybrid automation framework that combines data-driven and keyword-driven methodologies. This framework will allow for reusable functions and test data, ensuring easy maintenance and scalability.
+1. *Creating a Hybrid Automation Framework*: Develop a hybrid automation framework that combines data-driven and keyword-driven methodologies. This framework will allow for reusable functions and test data, ensuring easy maintenance and scalability.
 
 2. Adding Log Files and Screenshots: Capture log files and screenshots of failed test cases to facilitate debugging and error analysis during test execution.
 
