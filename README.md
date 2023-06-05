@@ -9,14 +9,17 @@ The objective of this project is to create a Selenium Hybrid automation testing 
 
 2. Adding Log Files and Screenshots: Capture log files and screenshots of failed test cases to facilitate debugging and error analysis during test execution.
 
-Support for Multiple Browsers: Configure the framework to run tests on desired browsers, including cross-browser and parallel browser settings, to ensure compatibility and reliability across different environments.
+3. Support for Multiple Browsers: Configure the framework to run tests on desired browsers, including cross-browser and parallel browser settings, to ensure compatibility and reliability across different environments.
 
-Automated Test Scripts: Develop automated test scripts using the framework to validate various modules of Carwale.com, including registration and other key functionalities.
+4. Automated Test Scripts: Develop automated test scripts using the framework to validate various modules of Carwale.com, including registration and other key functionalities.
 
-Data-Driven Approach: Utilize a data-driven approach to automate test cases, enabling the execution of multiple test scenarios with different input data.
+5. Data-Driven Approach: Utilize a data-driven approach to automate test cases, enabling the execution of multiple test scenarios with different input data.
 
-Allure Reports: Generate Allure reports to provide comprehensive test result analysis, including detailed test execution reports, graphical representations, and statistics.
+6. Allure Reports: Generate Allure reports to provide comprehensive test result analysis, including detailed test execution reports, graphical representations, and statistics.
 
-Integration with GitHub and Jenkins: Upload the project to your GitHub repository, commit changes regularly, and leverage Jenkins for automated builds and test runs.
+7. Integration with GitHub and Jenkins: Upload the project to your GitHub repository, commit changes regularly, and leverage Jenkins for automated builds and test runs.
 
-### Outcome: Successfully developed a Selenium hybrid framework for automating carwale.com website and added test scripts to login and other modules using a data-driven approach and Pytest framework. So as this is a complete framework, adding new test scripts is more straightforward.
+### Outcome: 
+The project successfully delivers a Selenium hybrid automation framework for automating Carwale.com. It includes test scripts for essential functionalities such as Login, implemented using a data-driven approach and Pytest framework. The framework's modular structure allows for easy addition of new test scripts, further enhancing test coverage and efficiency.
+
+Feel free to modify and expand upon this template to fit your specific project requirements.
