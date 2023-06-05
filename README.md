@@ -1,5 +1,5 @@
 # HybridFramework_Carwale.com
-## PROJECT NAME: Web Automation of Carwale.com in Selenium using Python.
+## Web Automation of Carwale.com in Selenium using Python.
 
 ### Objective: 
 The objective of this project is to create a Selenium Hybrid automation testing framework and adding scripts to automate Carwale.com, India's leading website for car-related details. The framework will enable efficient and reliable testing of the website's functionalities, ensuring the accuracy and quality of car-related information.
